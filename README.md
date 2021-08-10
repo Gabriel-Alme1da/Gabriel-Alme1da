@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gabriel-Almeida
+- 👀 I’m interested in Java,HTML, CSS, Javascript
+- 🌱 I’m currently learning JAVA, Javascript
